@@ -34,3 +34,4 @@ You can also create a footer as per on FRONT WEBSITE. All resources and assets t
 
 CHEATING IS NOT ALLOWED THEREFORE IF YOU ARE FOUND WITH CODES BELONG TO SOMONE, YOU WILL BE PERNALIZED. TAKE THIS SERIOUS.
 
+✅✅START TIME✅✅ 10:30 am IST - 03:30 pm IST Please observe time. After time elapse whatever contribution will be done, will not be considere.
