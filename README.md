@@ -32,6 +32,6 @@ You can also create a footer as per on FRONT WEBSITE. All resources and assets t
 
 - Duration to finish the challenge is (6hours) plus 30min of demo(optional) no more no less. If you want you can request it be deployed so that everyone can test it.
 
-CHEATING IS NOT ALLOWED THEREFORE IF YOU ARE FOUND WITH CODES BELONG TO SOMONE, YOU WILL BE PERNALIZED. TAKE THIS SERIOUS.
+❌❎CHEATING IS NOT ALLOWED THEREFORE IF YOU ARE FOUND WITH CODES BELONG TO SOMEONE, YOU WILL BE PERNALIZED. TAKE THIS SERIOUS❎❌
 
 ✅✅START TIME✅✅ 10:30 am IST - 03:30 pm IST Please observe time. After time elapse whatever contribution will be done, will not be considered.
