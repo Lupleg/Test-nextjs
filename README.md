@@ -1,34 +1,36 @@
 # Next.js and Material-UI Coding Challenge
 
-This repository contains my solution to the Next.js and Material UI coding challenge. The challenge required building a web application using Next.js and implementing the UI using Material-UI components.
+This repository contains all you need to complete the challenge. The challenge required building a web application using Next.js and implementing the UI using Material-UI components.
+
+### What to be used
+- Javascript or Typescript
+- Nextjs
+- Material UI
+- Shadcn(optinal)
+- Hosting(optional)
 
 ## Challenge Description
 
-The coding challenge involved creating a web application that [describe the requirements of the challenge].
+We have take the inspiration from FRONT WEBSITE specific the pricing page. Therefore you are tasked to make a complete pricing page like front website. https://front.com/pricing
 
-## Technologies Used
 
-- [Next.js](https://nextjs.org/): A React framework for building server-side rendered and static websites.
-- [Material-UI](https://material-ui.com/): A popular React UI framework that provides pre-designed components and styles.
+## TASK: CREATE A COMPLETE PRICING PAGE AS WITH REFERENCE OF FRONT
 
-## Getting Started
+## Important Notes
 
-To run the project locally, follow these steps:
+### 1 Reference
+Follow this [link](https://front.com/pricing) for your reference to start your task.
 
-1. Clone the repository: `git clone [repository URL]`
-2. Install the dependencies: `npm install`
-3. Start the development server: `npm run dev`
-4. Open your browser and navigate to `http://localhost:3000`
+### 2 Reference
+Add the tooltips in the pricing page, no reference will be provided for this but you can use your creativity.
 
-## Folder Structure
 
-The project follows a standard Next.js folder structure:
+## THE LINK IS ONLY USEFULL FOR CREATING MENU, PRICING PAGE and ADDONS
 
-- `app/`: Contains the Next.js App for different routes.
-- `components/`: Contains reusable React components.
-- `globals.css`: Contains global styles and theme configuration.
+- Bonus point:
+You can also create a footer as per on FRONT WEBSITE. All resources and assets to use, you can make use of what front website have.
 
-## Additional Notes
+- Duration to finish the challenge is (6hours) plus 30min of demo(optional) no more no less. If you want you can request it be deployed so that everyone can test it.
 
-[Add any additional notes or instructions here, if applicable.]
+CHEATING IS NOT ALLOWED THEREFORE IF YOU ARE FOUND WITH CODES BELONG TO SOMONE, YOU WILL BE PERNALIZED. TAKE THIS SERIOUS.
 
