@@ -1,5 +1,4 @@
 site_name: MMS Docs
-site_url: https://lupleg.website
 theme:
   name: material
   features:
