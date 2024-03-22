@@ -1,1 +1,41 @@
-site_name: My Docs
+site_name: MMS Documentation
+theme:
+  name: material
+  features:
+    - tabs
+    - navigation.tabs
+    - navigation.expand
+    - navigation.top
+    - navigation.bottom
+    - navigation.sidebar
+    - navigation.next
+    - navigation.prev
+    - toc.integrate
+    - toc.title
+    - toc.toc
+    - footer
+    - footer.logo
+    - footer.author
+    - footer.version
+    - footer.copyright
+    - footer.powered_by
+    - search
+  palette:
+    - scheme: default
+      toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to Dark Mode
+
+    - scheme: slate
+      toggle:
+      icon: material/toggle-switch-on-outline
+      name: Switch to Light Mode
+
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  logo:
+    icon: "school"
+    text: "Mentor Management System"
+
+
