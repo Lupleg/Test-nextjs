@@ -1,37 +1,29 @@
-# Next.js and Material-UI Coding Challenge
+# Project Documentation
+- commands% python3 -m venv venv
+- commands% source venv/bin/activate
 
-This repository contains all you need to complete the challenge. The challenge required building a web application using Next.js and implementing the UI using Material-UI components.
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
 
-### What to be used
-- Javascript or Typescript
-- Nextjs
-- Material UI
-- Shadcn(optinal)
-- Hosting(optional)
+## Introduction
+[Provide a brief introduction to your project and its purpose.]
 
-## Challenge Description
+## Installation
+[Explain how to install and set up your project.]
 
-We have take the inspiration from FRONT WEBSITE specific the pricing page. Therefore you are tasked to make a complete pricing page like front website. https://front.com/pricing
+## Usage
+[Provide instructions on how to use your project.]
 
+## Configuration
+[Explain any configuration options or settings.]
 
-## TASK: CREATE A COMPLETE PRICING PAGE AS WITH REFERENCE OF FRONT
+## Contributing
+[Provide guidelines for contributing to your project.]
 
-## Important Notes
-
-### 1 Reference
-Follow this [link](https://front.com/pricing) for your reference to start your task.
-
-### 2 Reference
-Add the tooltips in the pricing page, no reference will be provided for this but you can use your creativity.
-
-
-## THE LINK IS ONLY USEFULL FOR CREATING MENU, PRICING PAGE and ADDONS
-
-- Bonus point:
-You can also create a footer as per on FRONT WEBSITE. All resources and assets to use, you can make use of what front website have.
-
-- Duration to finish the challenge is (6hours) plus 30min of demo(optional) no more no less. If you want you can request it be deployed so that everyone can test it.
-
-❌❎CHEATING IS NOT ALLOWED THEREFORE IF YOU ARE FOUND WITH CODES BELONG TO SOMEONE, YOU WILL BE PERNALIZED. TAKE THIS SERIOUS❎❌
-
-✅✅START TIME✅✅ 10:30 am IST - 03:30 pm IST Please observe time. After time elapse whatever contribution will be done, will not be considered.
+## License
+[Specify the license under which your project is distributed.]
