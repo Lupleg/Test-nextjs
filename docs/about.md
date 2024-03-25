@@ -1,4 +1,4 @@
-# About MMS Documentation
+# About MMS 
 
 ## Introduction
 The Mentor Management System is a comprehensive software solution designed to streamline and automate the process of managing mentors and mentees. This documentation provides an overview of the system, its features, and how to use it effectively.
