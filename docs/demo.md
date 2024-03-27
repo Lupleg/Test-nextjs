@@ -59,7 +59,8 @@ def bubble_sort(items):
 
 ## Icons and Emojs
 # Emoji
-- This is an emoji
+**This is an emoji** Hello world.
+_This is an emoji_
 
 :smile:
 
