@@ -58,6 +58,8 @@ def bubble_sort(items):
 ```
 
 ## Icons and Emojs
+# Emoji
+- This is an emoji
 
 :smile:
 
