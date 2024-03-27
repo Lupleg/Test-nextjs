@@ -62,6 +62,11 @@ def bubble_sort(items):
 **This is an emoji** Hello world.
 _This is an emoji_
 
+## JavaScript arrow function
+```js
+const hello = () => console.log("Hello, world!")
+```
+
 :smile:
 
 :fontawesome-regular-face-laugh-wink:
