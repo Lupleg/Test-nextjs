@@ -58,4 +58,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2025 <a href="https://github.com/lupleg"  target="_blank" rel="noopener">Lupleg OrgLC</a>
+  &copy; 2025 <a href="https://github.com/lupleg"  target="_blank" rel="noopener">Lupleg Org</a>
