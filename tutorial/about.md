@@ -1,39 +1,44 @@
-# About MMS 
+# About Lupleg 
 
-## Introduction
-The Mentor Management System is a comprehensive software solution designed to streamline and automate the process of managing mentors and mentees. This documentation provides an overview of the system, its features, and how to use it effectively.
+Lupleg is a simple static site generator written in Python. It is designed to be easy to use and easy to extend. It is also designed to be fast and efficient.
 
 ## Features
-- User-friendly interface for easy navigation and usage
-- Secure login and authentication system
-- Mentor and mentee registration and profile management
-- Matching algorithm for pairing mentors and mentees based on their preferences and goals
-- Communication tools for mentors and mentees to connect and schedule meetings
-- Progress tracking and reporting features
-- Admin dashboard for managing system settings and user roles
 
-## Getting Started
-To get started with the Mentor Management System, follow these steps:
+- Simple and easy to use
+- Fast and efficient
+- Easy to extend
+- Supports Markdown
+- Supports Jinja2
+- Supports YAML front matter
+- Supports custom plugins
+- Supports custom themes
 
-1. Install the required dependencies (list any dependencies here)
-2. Configure the database connection
-3. Run the application
-4. Access the system through the provided URL
+## Installation
+
+To install Lupleg, you can use pip:
+
+```bash
+pip install lupleg
+```
 
 ## Usage
-This section provides detailed instructions on how to use the Mentor Management System, including:
 
-- User registration and login
-- Profile setup and management
-- Searching and matching mentors/mentees
-- Communication and scheduling meetings
-- Tracking progress and generating reports
+To use Lupleg, you need to create a configuration file called `lupleg.yml` in the root of your project. Here is an example configuration file:
 
-## Troubleshooting
-If you encounter any issues or have questions while using the Mentor Management System, refer to this section for troubleshooting tips and common problems.
+```yaml
+source: content
+destination: output
+theme: default
+```
 
-## Support and Feedback
-For any support or feedback related to the Mentor Management System, please contact our support team at [dev@lupleg.website](mailto:dev@lupleg.website).
+You can then run Lupleg from the command line:
 
-## Conclusion
-The Mentor Management System is a powerful tool for managing mentorship programs efficiently. This documentation serves as a guide to help users understand and utilize the system effectively.
+```bash
+lupleg build
+```
+
+This will generate your site in the `output` directory.
+
+
+
+
