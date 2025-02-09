@@ -3,7 +3,6 @@
 Thank you for considering contributing to our project! We appreciate your time and effort. To ensure a smooth collaboration, please follow these guidelines:
 
 ## Table of Contents
-
 - [Code of Conduct](#code-of-conduct)
 - [How to Contribute](#how-to-contribute)
 - [Reporting Issues](#reporting-issues)
