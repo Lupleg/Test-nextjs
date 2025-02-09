@@ -1,4 +1,4 @@
-# About Lupleg 
+# About XDA 
 
 Lupleg is a simple static site generator written in Python. It is designed to be easy to use and easy to extend. It is also designed to be fast and efficient.
 
