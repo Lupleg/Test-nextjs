@@ -1,4 +1,4 @@
-# Markdown Guide
+# Guide
 
 Welcome to my Markdown guide! This guide will help you get started with Markdown and contribute to MMS documentation projects.
 
