@@ -31,5 +31,3 @@ We welcome contributions from the community to help improve the documentation an
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-© 2025 Lupleg. All rights reserved.

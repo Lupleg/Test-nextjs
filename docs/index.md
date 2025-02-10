@@ -36,4 +36,3 @@ Thank you for choosing Lupleg!
 
 ---
 
-© 2025 Lupleg. All rights reserved.
