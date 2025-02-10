@@ -1,4 +1,4 @@
-## How to Contribute
+# Contribute
 
 Thank you for your interest in contributing to the Mentor Management System Documentation! We welcome contributions from the community to help improve the documentation and make it more comprehensive.
 
