@@ -1,4 +1,4 @@
-# About Lupleg
+# About 
 
 Welcome to Lupleg! We are a team of passionate developers dedicated to creating innovative software solutions that make a difference. Our mission is to deliver high-quality products that meet the needs of our clients and exceed their expectations.
 
