@@ -10,7 +10,7 @@ Lupleg Docs is your comprehensive guide to understanding and using Lupleg produc
 
 To get started with Lupleg, follow these steps:
 
-1. **Sign Up**: Create an account on our [website]).
+1. **Sign Up**: Create an account on our [website](https://www.lupleg.org).
 2. **Explore Products**: Browse through our range of products and services.
 3. **Read Documentation**: Check out our detailed guides and tutorials.
 4. **Join the Community**: Participate in our forums and connect with other users.
@@ -26,11 +26,11 @@ Our documentation is divided into the following sections:
 
 ## Support
 
-If you need help, our support team is here to assist you. Visit our [support page]/support) for more information.
+If you need help, our support team is here to assist you. Visit our [support page](https://www.lupleg.org/support) for more information.
 
 ## Feedback
 
-We value your feedback! If you have any suggestions or comments, please let us know by [contacting us]/contact).
+We value your feedback! If you have any suggestions or comments, please let us know by [contacting us](https://www.lupleg.org/contact).
 
 Thank you for choosing Lupleg!
 
